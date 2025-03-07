@@ -26,7 +26,7 @@ const ChatHeader = ({ isDarkMode, toggleDarkMode, models, selectedModelIndex, se
                 <motion.div whileHover={{ scale: 1.05 }} whileTap={{ scale: 0.95 }}>
                     <Typography variant="h4"color="primary" sx={{ display: 'flex', alignItems: 'center' }}>
                         <GiArtificialIntelligence style={{ marginRight: '8px' }} />
-                        CHAT CRAFT
+                        CHAT-CRAFT
                     </Typography>
                 </motion.div>
                 <Box display="flex" alignItems="center">
